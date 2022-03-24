@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5ld3VzZXIyIiwiaWQiOiI2MWQ4OTgyYzA0NDFjODE2M2E2ZGFmODEiLCJpYXQiOjE2NDE1ODU0MDl9.3yHDB-GBWgj7mb9NiCCLJOeR01mLVMcZv8VcvtGT-KQ
+
+{ 
+  "title": "ex. 4.22 3",
+  "author": "newuser2 author",
+  "url": "new.user.2",
+  "likes":""
+}

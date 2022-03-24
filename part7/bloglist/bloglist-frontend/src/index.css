@@ -1,0 +1,63 @@
+.successful {
+    color: green;
+    background: lightgreen;
+    font-size: 20px;
+    border-style: solid;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.error {
+    color: black;
+    background: red;
+    font-size: 20px;
+    border-style: solid;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.nav-bar {
+    background: #66ccff;
+    color: black;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.navbar-link-color {
+    color: white;
+    text-shadow: 0px 0px 10px black;
+}
+
+.homeview {
+    border: solid #66ccff;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.loginform {
+    color: #66ccff;
+    text-shadow: 0px 0px 0px black;
+    margin: 10px;
+}
+
+.loginform-input{
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#login-button {
+    background-color: #66ccff;
+    border-radius: 2px;  
+    border: none;
+    color: white;
+    text-shadow: 0px 0px 10px black;
+    width: 50%;
+}
+
+.blog-general-button {
+    background-color: #66ccff;
+    border-radius: 2px;  
+    border: none;
+    color: white;
+    text-shadow: 0px 0px 10px black;
+}
