@@ -1,0 +1,7 @@
+POST https://murmuring-ridge-17400.herokuapp.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "Newperson to remove",
+    "number": "1232-000"
+}
